@@ -3,7 +3,6 @@ let lista_amigos=document.querySelector("#listaAmigos")
 let input_amigos=document.querySelector("#amigo")
 let submit=document.querySelector(".button-add")
 let sortear_amigo=document.querySelector(".button-draw")
-//let resultado=document.getElementsByTagName("resultado")
 let resultado=document.querySelector("#resultado")
 
 
